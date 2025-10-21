@@ -1,10 +1,9 @@
 ## Hi there 👋
 vcfdfdf
-<!--ghnjghhggvdffdgfd
-**Mancute/mancute** is a ✨ _special_ ✨ repository because its `README.md` (vvcvvthis file) appears on your GitHub profile.
+<!--ghnjghhggvdffdgfdsdffsdsdE.md` (vvcvvthis file) appears on your GitHub profile.
 dvgdff
 Here are some ideas to get you started:fcfgfgfgdfggfg
-
+dvvfdfdfdfdf
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...vgvdfdgffd
