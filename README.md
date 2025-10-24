@@ -18,3 +18,4 @@ dvvfdfdfdfdf
 dvgdff
 Tỷ giá BTC/USDT = 60,000 có nghĩa là gì?
 Đòn bẩy (leverage) có được sử dụng trong spot trading không?
+What if sovereignty wasn’t about borders — but bandwidth?
