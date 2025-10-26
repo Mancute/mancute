@@ -1,3 +1,4 @@
+Mô hình Inside Bar thể hiện điều gì?
 ## Hi there 👋
 vcfdfdf 
 <!--ghnjghhggvdffdgfdsdffsdsdE.md` (vvcvvthis file) appears on your GitHub profile.
