@@ -1,5 +1,6 @@
 Mô hình Inside Bar thể hiện điều gì?
 ## Hi there 👋
+“Buy the dip” nghĩa là gì và có nên áp dụng không?
 vcfdfdf 
 <!--ghnjghhggvdffdgfdsdffsdsdE.md` (vvcvvthis file) appears on your GitHub profile.
 dvgdff
