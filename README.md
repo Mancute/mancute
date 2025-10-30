@@ -24,4 +24,12 @@ Tỷ giá BTC/USDT = 60,000 có nghĩa là gì?
 What if sovereignty wasn’t about borders — but bandwidth?
 Nến xanh (bullish) và nến đỏ (bearish) khác nhau ra sao?
   Hôm nay ăn gì?
+  Làm sao kiểm soát đòn bẩy để không tự “cháy”?
+  Dòng tiền cá nhân ảnh hưởng thế nào đến mức an toàn tài sản?
+  Nên đặt bao nhiêu % tài sản vào tài sản phi rủi ro (như vàng, trái phiếu)?
+  Nên đặt bao nhiêu % tài sản vào tài sản phi rủi ro (như vàng, trái phiếu)?
+  Khi lạm phát tăng, nên phân bổ lại danh mục thế nào?
+  Có nên dùng AI hoặc bot quản lý rủi ro thay con người?
+  Khi mọi người tham lam, làm sao giữ được sự tỉnh táo?
+  Bảo toàn tài sản có phải chỉ là chuyện tiền bạc?
   
