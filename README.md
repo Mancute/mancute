@@ -1,7 +1,5 @@
-Tương lai của crypto sẽ phụ thuộc vào yếu tố nào nhất: công nghệ, chính sách, hay cộng đồng?
-Mô hình Inside Bar thể hiện điều gì?
-Có thể short Bitcoin hoặc altcoin không? Nếu có thì bằng công cụ nào?
-“Buy the dip” nghĩa là gì và có nên áp dụng không?
+
+
 Làm sao để nhận biết một cổ phiếu đang bị short quá mức (over-shorted)?
 Bán khống có thể trở thành nghệ thuật “đi ngược đám đông” không?
 Khi nào nên cân nhắc bán khống?
