@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 Những tín hiệu kỹ thuật nào thường báo hiệu cơ hội short tốt?
 - 🔭 I’m currently working on ...xcdcvvdf
 - 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...vgvdfdgffd
 - 🤔 I’m looking for help with ...cvvcvvcvsfffd
 - 💬 Ask me about ...
