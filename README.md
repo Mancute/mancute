@@ -1,6 +1,7 @@
 I'm fine, how about you?
 gmoose
 have-fun
+Gkuvi
 Làm sao để nhận biết một cổ phiếu đang bị short quá mức (over-shorted)?
 Bán khống có thể trở thành nghệ thuật “đi ngược đám đông” không?
 Khi nào nên cân nhắc bán khống?
