@@ -5,7 +5,22 @@ Gkuvi
 Làm sao để nhận biết một cổ phiếu đang bị short quá mức (over-shorted)?
 Bán khống có thể trở thành nghệ thuật “đi ngược đám đông” không?
 Khi nào nên cân nhắc bán khống?
+Plena
+by PlenaFinance
 
+Infrastructure
+5.0 (1254 reviews)
+
+2.2k
+Upvote
+
+2
+Downvote
+Claim this app
+
+
+Overview
+AI powered ecosystem for building & using on chain apps
 Here are some ideas to get you started:
 Những tín hiệu kỹ thuật nào thường báo hiệu cơ hội short tốt?
 - 🔭 I’m currently working on ...xcdcvvdf
