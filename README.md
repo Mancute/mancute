@@ -20,6 +20,7 @@ The platform’s agentic workflow lowers the barrier for non‑developers
 Downvote
 Claim this app
 
+What are the common governance attack vectors (e.g., vote buying, quorum attacks)?
 
 Overview
 AI powered ecosystem for building & using on chain apps
