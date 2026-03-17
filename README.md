@@ -21,6 +21,7 @@ Downvote
 Claim this app
 Portal-live
 What are the common governance attack vectors (e.g., vote buying, quorum attacks)?
+What are the emerging trends in DeFi (e.g., real‑world asset tokenization, DeFi 2.0)?
 
 Overview
 AI powered ecosystem for building & using on chain apps
