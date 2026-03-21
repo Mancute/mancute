@@ -30,7 +30,7 @@ Những tín hiệu kỹ thuật nào thường báo hiệu cơ hội short tố
 - 🔭 I’m currently working on ...xcdcvvdf
 - 🌱 I’m currently learning ...
 - gfere
-
+https://x.com/Alaninemina/status/2035369776730534022?s=20
 - 👯 I’m looking to collaborate on ...vgvdfdgffd
 - 🤔 I’m looking for help with ...cvvcvvcvsfffd
 - 💬 Ask me about ...
