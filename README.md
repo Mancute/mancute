@@ -73,5 +73,6 @@ Làm sao để xác định “short entry point” hợp lý?
 Nên đặt stop-loss như thế nào khi bán khống?
 Khi giá đang giảm mạnh, có nên tiếp tục short không?
 Có nên short trong thị trường sideway?
+Portfolio altcoin nên diversify như thế nào?
 
 
