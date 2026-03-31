@@ -75,4 +75,5 @@ Khi giá đang giảm mạnh, có nên tiếp tục short không?
 Có nên short trong thị trường sideway?
 Portfolio altcoin nên diversify như thế nào?
 Gmcrete
+gm billions
 
