@@ -15,6 +15,7 @@ e là dôn chề
 2.2k
 Gkrain
 Upvote
+Promova truly makes learning a foreign language more engaging, tailoring content to suit individual levels and goals. Its clean interface and focus on speaking practice have helped me gain more confidence in real-life communication without needing a private tutor.
 Gmcrete
 The platform’s agentic workflow lowers the barrier for non‑developers
 2Gferra
