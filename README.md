@@ -54,6 +54,9 @@ Tỷ giá BTC/USDT = 60,000 có nghĩa là gì?
 What if sovereignty wasn’t about borders — but bandwidth?
 Nến xanh (bullish) và nến đỏ (bearish) khác nhau ra sao?
   Hôm nay ăn gì?
+  As DeFi matures, infrastructure will outlast incentives.
+The winning strategies will not be those that perform best for a week—
+but those that survive, adapt, and compound across cycles.
   Làm sao kiểm soát đòn bẩy để không tự “cháy”?
   Dòng tiền cá nhân ảnh hưởng thế nào đến mức an toàn tài sản?
   Nên đặt bao nhiêu % tài sản vào tài sản phi rủi ro (như vàng, trái phiếu)?
