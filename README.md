@@ -13,6 +13,7 @@ Infrastructure
 gneft
 e là dôn chề
 2.2k
+https://app.galxe.com/quest/
 Gkrain
 Làm sao để phân bổ vốn đa chain hiệu quả?
 When ownership becomes programmable,
