@@ -17,6 +17,7 @@ Sovereignty isn’t a feature — it’s the foundation
 https://app.galxe.com/quest/
 Gkrain
 gneft
+gkrain
 Làm sao để phân bổ vốn đa chain hiệu quả?
 When ownership becomes programmable,
 identity becomes infrastructure.
