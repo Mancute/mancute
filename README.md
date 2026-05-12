@@ -17,6 +17,7 @@ Sovereignty isn’t a feature — it’s the foundation
 https://app.galxe.com/quest/
 Gkrain
 gneft
+Điều gì khiến cộng đồng trở thành tài sản giá trị nhất của một game blockchain?
 gkrain
 Làm sao để phân bổ vốn đa chain hiệu quả?
 When ownership becomes programmable,
