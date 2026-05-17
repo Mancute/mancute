@@ -18,6 +18,7 @@ Sovereignty isn’t a feature — it’s the foundation
 https://app.galxe.com/quest/
 Gkrain
 gneft
+gkrain
 Why Should You Use a Concrete Vault?
 
 Why should someone use a Concrete Vault instead of managing everything manually?
