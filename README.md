@@ -19,6 +19,7 @@ https://app.galxe.com/quest/
 Gkrain
 gneft
 gkrain
+DAO là gì và mô hình tổ chức phi tập trung này có thể thay thế doanh nghiệp truyền thống trong tương lai không?
 Why Should You Use a Concrete Vault?
 
 Why should someone use a Concrete Vault instead of managing everything manually?
