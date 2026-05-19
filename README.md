@@ -14,6 +14,7 @@ gneft
 e là dôn chề
 2.2k
 gmcrete
+Vì sao khả năng mở rộng luôn là bài toán khó đối với hầu hết các blockchain hiện nay?
 Sovereignty isn’t a feature — it’s the foundation
 https://app.galxe.com/quest/
 Gkrain
