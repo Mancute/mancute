@@ -14,6 +14,7 @@ gneft
 e là dôn chề
 2.2k
 gmcrete
+Theo bạn, blockchain trong 10 năm tới sẽ chủ yếu đóng vai trò là nền tảng công nghệ hạ tầng hay trở thành một phần không thể thiếu của đời sống hằng ngày?
 Vì sao khả năng mở rộng luôn là bài toán khó đối với hầu hết các blockchain hiện nay?
 Sovereignty isn’t a feature — it’s the foundation
 https://app.galxe.com/quest/
