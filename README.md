@@ -14,6 +14,7 @@ gneft
 e là dôn chề
 2.2k
 gmcrete
+Theo bạn, CDN giúp cải thiện hiệu suất của website và ứng dụng toàn cầu như thế nào, đặc biệt trong thời đại nội dung video và AI-generated media phát triển mạnh?
 gmum
 Theo bạn, blockchain trong 10 năm tới sẽ chủ yếu đóng vai trò là nền tảng công nghệ hạ tầng hay trở thành một phần không thể thiếu của đời sống hằng ngày?
 Vì sao khả năng mở rộng luôn là bài toán khó đối với hầu hết các blockchain hiện nay?
