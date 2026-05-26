@@ -4,6 +4,7 @@ How can blockchain reduce settlement risks in stock exchanges?
 What role does blockchain play in decentralized CDN (content delivery networks)?
 How can blockchain improve traceability in pharmaceuticals?
 What are the limits of blockchain-based voting systems?
+Theo bạn, việc xây dựng infrastructure cho metaverse hoặc ứng dụng VR/AR sẽ yêu cầu những thay đổi lớn nào về network và computing power?
 How can blockchain help with refugee identity management?
 What challenges exist in blockchain adoption for interbank clearing?
 How can blockchain reduce corruption in land registry systems?
