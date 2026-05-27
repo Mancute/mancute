@@ -2,6 +2,7 @@ I'm fine, how about you?
 gmoose
 have-fun
 Gkuvi
+Bạn nghĩ cộng đồng đóng vai trò như thế nào trong việc thúc đẩy adoption cho các nền tảng ABO, đặc biệt khi cạnh tranh với hàng nghìn dự án blockchain mới xuất hiện mỗi năm?
 Làm sao để nhận biết một cổ phiếu đang bị short quá mức (over-shorted)?
 Bán khống có thể trở thành nghệ thuật “đi ngược đám đông” không?
 Khi nào nên cân nhắc bán khống?
