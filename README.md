@@ -14,6 +14,7 @@ Infrastructure
 5.0 (1254 reviews)
 gneft
 e là dôn chề
+Layer 2 có thể hoạt động độc lập hoàn toàn với Layer 1 hay không, và điều gì sẽ xảy ra nếu Layer 1 gặp sự cố?
 gkrain
 Trong trường hợp xảy ra bear market kéo dài, dự án ABO cần thay đổi chiến lược phát triển như thế nào để duy trì hoạt động và giữ chân cộng đồng trung thành?
 2.2k
