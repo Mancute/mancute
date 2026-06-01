@@ -8,6 +8,7 @@ Làm sao để nhận biết một cổ phiếu đang bị short quá mức (ove
 Bán khống có thể trở thành nghệ thuật “đi ngược đám đông” không?
 Khi nào nên cân nhắc bán khống?
 Plena
+Những chỉ số nào quan trọng nhất khi đánh giá sức khỏe kinh tế của một mạng Layer 2?
 by PlenaFinance
 good night
 Infrastructure
