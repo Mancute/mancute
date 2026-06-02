@@ -3,6 +3,7 @@ gmoose
 Nếu phải dự đoán tương lai của hệ sinh thái ABO trong 10 năm tới, bạn nghĩ nó sẽ trở thành một phần cốt lõi của Web3 hay dần biến mất như nhiều xu hướng crypto trước đây?
 have-fun
 Gkuvi
+Layer 2 thừa hưởng bảo mật từ Layer 1 đến mức độ nào và đâu là những giới hạn của mô hình này?
 Bạn nghĩ cộng đồng đóng vai trò như thế nào trong việc thúc đẩy adoption cho các nền tảng ABO, đặc biệt khi cạnh tranh với hàng nghìn dự án blockchain mới xuất hiện mỗi năm?
 Làm sao để nhận biết một cổ phiếu đang bị short quá mức (over-shorted)?
 Bán khống có thể trở thành nghệ thuật “đi ngược đám đông” không?
