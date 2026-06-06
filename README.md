@@ -1,5 +1,6 @@
 I'm fine, how about you?
 gmoose
+Các Layer 2 blockchain có thể cải thiện hiệu suất và giảm chi phí giao dịch cho các dự án GameFi như thế nào?
 Gactum
 Layer 2 có thể xử lý bao nhiêu giao dịch mỗi giây trước khi gặp giới hạn kỹ thuật mới?
 Nếu phải dự đoán tương lai của hệ sinh thái ABO trong 10 năm tới, bạn nghĩ nó sẽ trở thành một phần cốt lõi của Web3 hay dần biến mất như nhiều xu hướng crypto trước đây?
