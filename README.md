@@ -1,5 +1,6 @@
 I'm fine, how about you?
 gmoose
+Những rủi ro bảo mật phổ biến mà các dự án GameFi cần giải quyết để bảo vệ tài sản của người chơi là gì?
 Các Layer 2 blockchain có thể cải thiện hiệu suất và giảm chi phí giao dịch cho các dự án GameFi như thế nào?
 Gactum
 Layer 2 có thể xử lý bao nhiêu giao dịch mỗi giây trước khi gặp giới hạn kỹ thuật mới?
