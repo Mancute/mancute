@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Các nhà phát triển GameFi cần làm gì để đảm bảo dự án tuân thủ các quy định pháp lý tại nhiều quốc gia khác nhau?
 gmoose
 Những rủi ro bảo mật phổ biến mà các dự án GameFi cần giải quyết để bảo vệ tài sản của người chơi là gì?
 Các Layer 2 blockchain có thể cải thiện hiệu suất và giảm chi phí giao dịch cho các dự án GameFi như thế nào?
