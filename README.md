@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Bộ sưu tập CryptoKitties đã ảnh hưởng thế nào đến Ethereum?
 Các nhà phát triển GameFi cần làm gì để đảm bảo dự án tuân thủ các quy định pháp lý tại nhiều quốc gia khác nhau?
 Chính phủ nào là một trong những quốc gia đầu tiên đưa ra quy định về Bitcoin?
 Giao thức DeFi nào được xem là một trong những dự án tiên phong?
