@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Giá ETH trong đợt ICO là bao nhiêu?
 The strongest ecosystems are built from the ground up. Sovereign infrastructure is the first step.
 Những ai là đồng sáng lập Ethereum?
 Bộ sưu tập CryptoKitties đã ảnh hưởng thế nào đến Ethereum?
