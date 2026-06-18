@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Bản nâng cấp Shanghai cho phép người dùng thực hiện điều gì?
 Bản nâng cấp Homestead được phát hành năm nào?
 Sau DAO Hack, Ethereum đã tăng cường chú trọng điều gì?
 Giá ETH trong đợt ICO là bao nhiêu?
