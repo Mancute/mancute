@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Bản nâng cấp Dencun năm 2024 giới thiệu công nghệ nào để giảm phí Layer 2?
 Ai là người giữ vai trò nổi bật nhất trong quá trình phát triển Ethereum?
 Bản nâng cấp Shanghai cho phép người dùng thực hiện điều gì?
 Bản nâng cấp Homestead được phát hành năm nào?
