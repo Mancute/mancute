@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Nếu bạn là nhà phát triển blockchain, bạn sẽ lựa chọn xây dựng dự án trên Layer 1 hay Layer 2, và những yếu tố nào sẽ ảnh hưởng đến quyết định đó?
 Cosmos hiện thực hóa tầm nhìn Internet of Blockchains thông qua công nghệ nào?
 Tại sao Layer 2 có thể cung cấp phí giao dịch thấp hơn đáng kể so với Layer 1?
 Vì sao việc thu hút nhà phát triển và hệ sinh thái dApp lại quan trọng đối với sự thành công của một blockchain Layer 1?
