@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Soulbound Token có thể được sử dụng như một công cụ đánh giá như thế nào?
 Canadians were so polite they almost forgot there was a football match happening. 😅
 Nếu bạn là nhà phát triển blockchain, bạn sẽ lựa chọn xây dựng dự án trên Layer 1 hay Layer 2, và những yếu tố nào sẽ ảnh hưởng đến quyết định đó?
 Cosmos hiện thực hóa tầm nhìn Internet of Blockchains thông qua công nghệ nào?
