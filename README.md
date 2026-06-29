@@ -15,6 +15,7 @@ Sau DAO Hack, Ethereum đã tăng cường chú trọng điều gì?
 Giá ETH trong đợt ICO là bao nhiêu?
 The strongest ecosystems are built from the ground up. Sovereign infrastructure is the first step.
 Những ai là đồng sáng lập Ethereum?
+Click the emoji below to join. Starting in 2 minutes!
 Bộ sưu tập CryptoKitties đã ảnh hưởng thế nào đến Ethereum?
 Các nhà phát triển GameFi cần làm gì để đảm bảo dự án tuân thủ các quy định pháp lý tại nhiều quốc gia khác nhau?
 Chính phủ nào là một trong những quốc gia đầu tiên đưa ra quy định về Bitcoin?
