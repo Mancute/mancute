@@ -1,5 +1,6 @@
 I'm fine, how about you?
 Một sản phẩm có điểm đánh giá cao luôn đồng nghĩa với chất lượng tốt không?
+Maker Fee và Taker Fee là gì, đồng thời sự khác biệt giữa hai loại phí này ảnh hưởng như thế nào đến chiến lược giao dịch?
 Benchmark có vai trò gì trong đánh giá AI?
 Soulbound Token có thể được sử dụng như một công cụ đánh giá như thế nào?
 Canadians were so polite they almost forgot there was a football match happening. 😅
