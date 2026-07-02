@@ -1,4 +1,5 @@
 I'm fine, how about you?
+OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào nhà giao dịch nên sử dụng để tối ưu quản lý vị thế?
 Một sản phẩm có điểm đánh giá cao luôn đồng nghĩa với chất lượng tốt không?
 Maker Fee và Taker Fee là gì, đồng thời sự khác biệt giữa hai loại phí này ảnh hưởng như thế nào đến chiến lược giao dịch?
 Benchmark có vai trò gì trong đánh giá AI?
