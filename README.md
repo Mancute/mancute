@@ -10,6 +10,7 @@ Nếu bạn là nhà phát triển blockchain, bạn sẽ lựa chọn xây dự
 Cosmos hiện thực hóa tầm nhìn Internet of Blockchains thông qua công nghệ nào?
 Tại sao Layer 2 có thể cung cấp phí giao dịch thấp hơn đáng kể so với Layer 1?
 Vì sao việc thu hút nhà phát triển và hệ sinh thái dApp lại quan trọng đối với sự thành công của một blockchain Layer 1?
+good luck for you guys in the next round!
 Bản nâng cấp Dencun năm 2024 giới thiệu công nghệ nào để giảm phí Layer 2?
 Ai là người giữ vai trò nổi bật nhất trong quá trình phát triển Ethereum?
 Bản nâng cấp Shanghai cho phép người dùng thực hiện điều gì?
