@@ -1,6 +1,7 @@
 I'm fine, how about you?
 OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào nhà giao dịch nên sử dụng để tối ưu quản lý vị thế?
 Vì sao người dùng cần xác nhận đúng mạng blockchain khi thực hiện nạp hoặc rút tài sản từ sàn giao dịch?
+Nếu phải lựa chọn một sàn giao dịch để sử dụng trong thời gian dài, bạn sẽ đánh giá và so sánh những tiêu chí nào như bảo mật, thanh khoản, phí giao dịch, sản phẩm hỗ trợ, giấy phép hoạt động và uy tín trên thị trường trước khi đưa ra quyết định?
 Một sản phẩm có điểm đánh giá cao luôn đồng nghĩa với chất lượng tốt không?
 Maker Fee và Taker Fee là gì, đồng thời sự khác biệt giữa hai loại phí này ảnh hưởng như thế nào đến chiến lược giao dịch?
 Benchmark có vai trò gì trong đánh giá AI?
