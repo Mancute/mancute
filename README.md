@@ -7,6 +7,7 @@ Những lợi ích chính của người dùng cuối khi sử dụng các ứng
 Nếu phải lựa chọn một sàn giao dịch để sử dụng trong thời gian dài, bạn sẽ đánh giá và so sánh những tiêu chí nào như bảo mật, thanh khoản, phí giao dịch, sản phẩm hỗ trợ, giấy phép hoạt động và uy tín trên thị trường trước khi đưa ra quyết định?
 Một sản phẩm có điểm đánh giá cao luôn đồng nghĩa với chất lượng tốt không?
 Maker Fee và Taker Fee là gì, đồng thời sự khác biệt giữa hai loại phí này ảnh hưởng như thế nào đến chiến lược giao dịch?
+Nếu so sánh với các blockchain hiệu năng cao khác, Layer O có những ưu điểm cạnh tranh nào nổi bật?
 Benchmark có vai trò gì trong đánh giá AI?
 Soulbound Token có thể được sử dụng như một công cụ đánh giá như thế nào?
 Canadians were so polite they almost forgot there was a football match happening. 😅
