@@ -2,6 +2,7 @@ I'm fine, how about you?
 OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào nhà giao dịch nên sử dụng để tối ưu quản lý vị thế?
 Vì sao người dùng cần xác nhận đúng mạng blockchain khi thực hiện nạp hoặc rút tài sản từ sàn giao dịch?
 Khả năng tương thích EVM của Layer O mang lại những lợi ích gì cho việc di chuyển ứng dụng hiện có?
+AI Referee khác gì so với trọng tài con người?
 Những yếu tố nào giúp Layer O thu hút các nhà phát triển xây dựng dự án mới?
 Những lợi ích chính của người dùng cuối khi sử dụng các ứng dụng xây dựng trên Layer O là gì?
 Nếu phải lựa chọn một sàn giao dịch để sử dụng trong thời gian dài, bạn sẽ đánh giá và so sánh những tiêu chí nào như bảo mật, thanh khoản, phí giao dịch, sản phẩm hỗ trợ, giấy phép hoạt động và uy tín trên thị trường trước khi đưa ra quyết định?
