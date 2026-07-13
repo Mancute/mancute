@@ -3,6 +3,7 @@ OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào
 Vì sao người dùng cần xác nhận đúng mạng blockchain khi thực hiện nạp hoặc rút tài sản từ sàn giao dịch?
 Khả năng tương thích EVM của Layer O mang lại những lợi ích gì cho việc di chuyển ứng dụng hiện có?
 Love the design. Looking forward to the full reveal!
+AI Referee có thể hỗ trợ DAO như thế nào?
 
 AI Referee có cần con người giám sát không?
 AI Referee khác gì so với trọng tài con người?
