@@ -5,7 +5,7 @@ Khả năng tương thích EVM của Layer O mang lại những lợi ích gì c
 Love the design. Looking forward to the full reveal!
 AI Referee có thể hỗ trợ DAO như thế nào?
 Theo bạn, đâu là yếu tố quan trọng nhất để một AI Referee được người dùng tin tưởng?
-
+Building the foundation first is the right approach.
 AI Referee có cần con người giám sát không?
 AI Referee khác gì so với trọng tài con người?
 Những yếu tố nào giúp Layer O thu hút các nhà phát triển xây dựng dự án mới?
