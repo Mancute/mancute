@@ -2,6 +2,7 @@ I'm fine, how about you?
 OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào nhà giao dịch nên sử dụng để tối ưu quản lý vị thế?
 Vì sao người dùng cần xác nhận đúng mạng blockchain khi thực hiện nạp hoặc rút tài sản từ sàn giao dịch?
 Khả năng tương thích EVM của Layer O mang lại những lợi ích gì cho việc di chuyển ứng dụng hiện có?
+gneft
 This is bigger news than anything else out there at the moment -  a watershed moment for not just the largest protocols but the industry as a whole
 Why does GenLayer encourage original content over AI-only content?
 What are RLPs?
