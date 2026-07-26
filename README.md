@@ -4,6 +4,8 @@ Vì sao người dùng cần xác nhận đúng mạng blockchain khi thực hi�
 Khả năng tương thích EVM của Layer O mang lại những lợi ích gì cho việc di chuyển ứng dụng hiện có?
 gneft
 gritual
+20. Các vấn đề về khả năng mở rộng (scalability) của blockchain hiện nay là gì?  
+
 This is bigger news than anything else out there at the moment -  a watershed moment for not just the largest protocols but the industry as a whole
 Why does GenLayer encourage original content over AI-only content?
 What are RLPs?
