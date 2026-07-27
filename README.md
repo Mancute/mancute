@@ -5,7 +5,7 @@ Khả năng tương thích EVM của Layer O mang lại những lợi ích gì c
 gneft
 gritual
 20. Các vấn đề về khả năng mở rộng (scalability) của blockchain hiện nay là gì?  
-
+Lệnh nào dùng để liệt kê các tệp và thư mục?
 This is bigger news than anything else out there at the moment -  a watershed moment for not just the largest protocols but the industry as a whole
 Why does GenLayer encourage original content over AI-only content?
 What are RLPs?
