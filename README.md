@@ -1,6 +1,7 @@
 I'm fine, how about you?
 OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào nhà giao dịch nên sử dụng để tối ưu quản lý vị thế?
 Vì sao người dùng cần xác nhận đúng mạng blockchain khi thực hiện nạp hoặc rút tài sản từ sàn giao dịch?
+Điều gì giúp AI Agent hoàn thành các tác vụ nhiều bước?
 Khả năng tương thích EVM của Layer O mang lại những lợi ích gì cho việc di chuyển ứng dụng hiện có?
 Tệp cấu hình nào thường được Bash sử dụng khi khởi động?
 Ký tự nào dùng để chuyển hướng đầu ra vào một tệp (ghi đè)?
