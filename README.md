@@ -7,6 +7,7 @@ Tệp cấu hình nào thường được Bash sử dụng khi khởi động?
 Ký tự nào dùng để chuyển hướng đầu ra vào một tệp (ghi đè)?
 Lệnh nào tạo tệp nén .tar.gz?
 gneft
+AI Agent có thể hỗ trợ nghiên cứu khoa học như thế nào?
 Guardrails trong AI Agent là gì?
 Vì sao AI Agent thường cần sandbox?
 gritual
