@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Viber có nguồn gốc từ quốc gia nào?
 Messenger trước đây là một phần của nền tảng nào?
 Theo bạn, ngành nghề nào sẽ được AI Agent thay đổi mạnh mẽ nhất?
 OCO (One Cancels the Other) là loại lệnh gì và trong trường hợp nào nhà giao dịch nên sử dụng để tối ưu quản lý vị thế?
