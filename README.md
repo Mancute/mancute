@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Theo bạn, tính năng nào quan trọng nhất trên một ứng dụng chat hiện đại?
 Username trên Telegram có lợi ích gì?
 "Read receipt" nghĩa là gì?
 Viber có nguồn gốc từ quốc gia nào?
