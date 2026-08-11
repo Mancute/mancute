@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Tương lai có còn cần các công cụ tìm kiếm truyền thống?
 Theo bạn, tính năng nào quan trọng nhất trên một ứng dụng chat hiện đại?
 Username trên Telegram có lợi ích gì?
 "Read receipt" nghĩa là gì?
