@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Proof of Human có còn quan trọng khi AI ngày càng giống người?
 Kỹ năng nào sẽ có giá trị nhất trong thời đại AI?
 AI có thể trở thành nhà khoa học tự chủ không?
 Tương lai có còn cần các công cụ tìm kiếm truyền thống?
