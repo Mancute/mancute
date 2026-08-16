@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Internet Court có hoạt động trên blockchain không?
 AI có thể giúp giải quyết biến đổi khí hậu như thế nào?
 Proof of Human có còn quan trọng khi AI ngày càng giống người?
 Kỹ năng nào sẽ có giá trị nhất trong thời đại AI?
