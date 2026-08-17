@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Consensus có ý nghĩa gì đối với Internet Court?
 Internet Court có hoạt động trên blockchain không?
 AI có thể giúp giải quyết biến đổi khí hậu như thế nào?
 Proof of Human có còn quan trọng khi AI ngày càng giống người?
