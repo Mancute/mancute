@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Intelligent Contract là gì?
 Consensus có ý nghĩa gì đối với Internet Court?
 Internet Court có hoạt động trên blockchain không?
 AI có thể giúp giải quyết biến đổi khí hậu như thế nào?
