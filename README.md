@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Blockchain giúp tăng khả năng kiểm chứng phán quyết như thế nào?
 Intelligent Contract là gì?
 Consensus có ý nghĩa gì đối với Internet Court?
 Internet Court có hoạt động trên blockchain không?
