@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Internet Court có thể trở thành “tòa án của Internet” trong tương lai không?
 Blockchain giúp tăng khả năng kiểm chứng phán quyết như thế nào?
 Intelligent Contract là gì?
 Consensus có ý nghĩa gì đối với Internet Court?
