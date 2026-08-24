@@ -1,4 +1,5 @@
 I'm fine, how about you?
+I like this flywheel—every strategy makes the next one easier to build.
 Node trong Blockchain là gì?
 Miner là gì?
 Internet Court có thể trở thành “tòa án của Internet” trong tương lai không?
