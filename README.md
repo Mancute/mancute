@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Stop words là gì?
 Blockchain có thể được ứng dụng vào những lĩnh vực nào ngoài tiền điện tử?
 I like this flywheel—every strategy makes the next one easier to build.
 Node trong Blockchain là gì?
