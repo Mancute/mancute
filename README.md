@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Semantic Search khác Keyword Search như thế nào?
 Embedding trong NLP là gì?
 Stop words là gì?
 Blockchain có thể được ứng dụng vào những lĩnh vực nào ngoài tiền điện tử?
