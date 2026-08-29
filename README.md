@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Machine Translation hoạt động như thế nào?
 Semantic Search khác Keyword Search như thế nào?
 Embedding trong NLP là gì?
 Stop words là gì?
