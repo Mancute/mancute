@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Tương lai của lập trình bằng ngôn ngữ tự nhiên sẽ thay đổi việc phát triển phần mềm như thế nào?
 Machine Translation hoạt động như thế nào?
 Semantic Search khác Keyword Search như thế nào?
 Embedding trong NLP là gì?
