@@ -3,6 +3,7 @@ Multi-agent system là gì?
 AI Agent có thể thay thế trợ lý cá nhân không?
 Context window ảnh hưởng thế nào đến AI Agent?
 Tương lai của lập trình bằng ngôn ngữ tự nhiên sẽ thay đổi việc phát triển phần mềm như thế nào?
+Làm thế nào để đảm bảo AI Agent không làm sai dữ liệu?
 Machine Translation hoạt động như thế nào?
 Semantic Search khác Keyword Search như thế nào?
 Embedding trong NLP là gì?
