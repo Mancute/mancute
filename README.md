@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Liệu nhiều AI Agent có thể tự giao dịch và hợp tác với nhau không?
 Multi-agent system là gì?
 AI Agent có thể thay thế trợ lý cá nhân không?
 Context window ảnh hưởng thế nào đến AI Agent?
