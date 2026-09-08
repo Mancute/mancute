@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Những rủi ro nào xuất hiện khi creator sử dụng AI để sản xuất nội dung hàng loạt?
 Tokenization có thể tạo ra cơ hội gì cho creator?
 AI-generated content đặt ra những thách thức nào cho Creator Economy?
 Làm thế nào để phân biệt nội dung do AI tạo ra và con người tạo ra?
