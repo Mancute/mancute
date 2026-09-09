@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Một hệ thống Content Verification lý tưởng cần có những đặc điểm nào?
 Những rủi ro nào xuất hiện khi creator sử dụng AI để sản xuất nội dung hàng loạt?
 Tokenization có thể tạo ra cơ hội gì cho creator?
 AI-generated content đặt ra những thách thức nào cho Creator Economy?
