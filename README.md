@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Codex xử lý dependency giữa các file như thế nào?
 Codex có thể đọc và hiểu nhiều file cùng lúc không?
 Một hệ thống Content Verification lý tưởng cần có những đặc điểm nào?
 Những rủi ro nào xuất hiện khi creator sử dụng AI để sản xuất nội dung hàng loạt?
