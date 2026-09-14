@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Agentic coding sẽ thay đổi vai trò của lập trình viên trong tương lai như thế nào?
 Codex xử lý khi gặp lỗi hoặc thông tin không đầy đủ như thế nào?
 Codex có thể viết documentation tự động không?
 Codex xử lý dependency giữa các file như thế nào?
