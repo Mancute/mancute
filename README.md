@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Agent Tank có thể mô phỏng các tình huống thực tế cho agents không?
 Agent Tank giúp agents học hỏi như thế nào?
 Agentic coding sẽ thay đổi vai trò của lập trình viên trong tương lai như thế nào?
 Codex xử lý khi gặp lỗi hoặc thông tin không đầy đủ như thế nào?
