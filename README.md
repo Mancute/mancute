@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Bằng chứng đóng vai trò gì trong quá trình xác minh?
 Agent Tank có thể mô phỏng các tình huống thực tế cho agents không?
 Agent Tank giúp agents học hỏi như thế nào?
 Agentic coding sẽ thay đổi vai trò của lập trình viên trong tương lai như thế nào?
