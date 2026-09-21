@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Làm sao ngăn agent thực hiện giao dịch ngoài ý muốn?
 Agent có thể hoạt động mà không cần con người phê duyệt từng bước không?
 Làm thế nào để đánh giá agent nào hoạt động tốt hơn?
 Bằng chứng đóng vai trò gì trong quá trình xác minh?
