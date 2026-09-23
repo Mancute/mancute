@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Có nên cho agent quyền từ chối một mệnh lệnh không?
 Evidence có vai trò gì trong việc cho phép agent hành động?
 Làm sao ngăn agent thực hiện giao dịch ngoài ý muốn?
 Agent có thể hoạt động mà không cần con người phê duyệt từng bước không?
