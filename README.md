@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Zero-Knowledge Proof có thể bảo vệ định danh ra sao?
 Làm sao chứng minh agent đã hành động đúng theo intent?
 Có nên cho agent quyền từ chối một mệnh lệnh không?
 Evidence có vai trò gì trong việc cho phép agent hành động?
