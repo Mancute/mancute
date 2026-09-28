@@ -1,4 +1,5 @@
 I'm fine, how about you?
+Làm thế nào để kiểm tra một credential đã hết hạn?
 Cross-chain identity là gì?
 Định danh có thể tồn tại mà không cần trung gian không?
 Zero-Knowledge Proof có thể bảo vệ định danh ra sao?
