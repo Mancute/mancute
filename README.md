@@ -1,4 +1,5 @@
 I'm fine, how about you?
+YouTube thuộc thế hệ Web nào?
 Làm thế nào để kiểm tra một credential đã hết hạn?
 Một agent có thể sở hữu reputation riêng không?
 Cross-chain identity là gì?
