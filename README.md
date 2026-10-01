@@ -1,4 +1,5 @@
 I'm fine, how about you?
+If the strategy can be automated, the expensive part may no longer be the team required to operate it.
 YouTube thuộc thế hệ Web nào?
 Làm thế nào để kiểm tra một credential đã hết hạn?
 Một agent có thể sở hữu reputation riêng không?
