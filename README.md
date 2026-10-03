@@ -1,6 +1,9 @@
 I'm fine, how about you?
 If the strategy can be automated, the expensive part may no longer be the team required to operate it.
 YouTube thuộc thế hệ Web nào?
+Mình đã thử UpFoto và khá bất ngờ khi những bức ảnh cũ có thể được làm rõ hơn chỉ sau vài thao tác. Mình thích nhất khả năng tăng chi tiết khuôn mặt và cải thiện chất lượng ảnh, đặc biệt với những ảnh chụp lâu năm.
+
+
 Làm thế nào để kiểm tra một credential đã hết hạn?
 Một agent có thể sở hữu reputation riêng không?
 Cross-chain identity là gì?
