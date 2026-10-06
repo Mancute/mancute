@@ -4,6 +4,7 @@ YouTube thuộc thế hệ Web nào?
 Mình đã thử UpFoto và khá bất ngờ khi những bức ảnh cũ có thể được làm rõ hơn chỉ sau vài thao tác. Mình thích nhất khả năng tăng chi tiết khuôn mặt và cải thiện chất lượng ảnh, đặc biệt với những ảnh chụp lâu năm.
 Data ownership trong Web2 thường thuộc về ai?
 gkrain
+Liquidity pool là gì?
 Làm thế nào để kiểm tra một credential đã hết hạn?
 Một agent có thể sở hữu reputation riêng không?
 Cross-chain identity là gì?
