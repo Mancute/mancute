@@ -1,5 +1,6 @@
 I'm fine, how about you?
 If the strategy can be automated, the expensive part may no longer be the team required to operate it.
+Good to know the regular rewards are staying the same.
 Decentralized identity (DID) là gì?
 Those controls will matter as AI starts managing real money.
 YouTube thuộc thế hệ Web nào?
