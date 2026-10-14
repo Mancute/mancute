@@ -1,5 +1,6 @@
 I'm fine, how about you?
 If the strategy can be automated, the expensive part may no longer be the team required to operate it.
+Làm thế nào để ngăn AI tạo ra quyết định thiên vị?
 Good to know the regular rewards are staying the same.
 Decentralized identity (DID) là gì?
 Those controls will matter as AI starts managing real money.
