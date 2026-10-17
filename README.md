@@ -5,6 +5,7 @@ Good to know the regular rewards are staying the same.
 Decentralized identity (DID) là gì?
 Those controls will matter as AI starts managing real money.
 YouTube thuộc thế hệ Web nào?
+Người ăn chay có thể cần chú ý bổ sung vitamin nào?
 Mình đã thử UpFoto và khá bất ngờ khi những bức ảnh cũ có thể được làm rõ hơn chỉ sau vài thao tác. Mình thích nhất khả năng tăng chi tiết khuôn mặt và cải thiện chất lượng ảnh, đặc biệt với những ảnh chụp lâu năm.
 Data ownership trong Web2 thường thuộc về ai?
 gkrain
