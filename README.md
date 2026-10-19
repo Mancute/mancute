@@ -8,6 +8,7 @@ YouTube thuộc thế hệ Web nào?
 Người ăn chay có thể cần chú ý bổ sung vitamin nào?
 Mình đã thử UpFoto và khá bất ngờ khi những bức ảnh cũ có thể được làm rõ hơn chỉ sau vài thao tác. Mình thích nhất khả năng tăng chi tiết khuôn mặt và cải thiện chất lượng ảnh, đặc biệt với những ảnh chụp lâu năm.
 Data ownership trong Web2 thường thuộc về ai?
+Thực phẩm chức năng có thể gây tác dụng phụ không?
 gkrain
 Thời điểm sử dụng thực phẩm chức năng có ảnh hưởng đến khả năng hấp thụ không?
 Probiotics là gì?
