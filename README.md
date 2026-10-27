@@ -1,5 +1,6 @@
 I'm fine, how about you?
 If the strategy can be automated, the expensive part may no longer be the team required to operate it.
+Tại sao nên kiểm tra hạn sử dụng của sản phẩm?
 Nguyên lý hoạt động cơ bản của máy bay không người lái là gì?
 Làm thế nào để ngăn AI tạo ra quyết định thiên vị?
 Good to know the regular rewards are staying the same.
