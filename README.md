@@ -1,5 +1,7 @@
 I'm fine, how about you?
 If the strategy can be automated, the expensive part may no longer be the team required to operate it.
+Kênh review có thể kiếm tiền bằng những cách nào?
+
 Chất chống oxy hóa giúp bảo vệ tế bào khỏi điều gì?
 Tại sao nên kiểm tra hạn sử dụng của sản phẩm?
 Nguyên lý hoạt động cơ bản của máy bay không người lái là gì?
