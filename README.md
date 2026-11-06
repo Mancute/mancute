@@ -9,6 +9,7 @@ Làm thế nào để ngăn AI tạo ra quyết định thiên vị?
 1. If you could live in any anime universe, which one would you choose and why?
 Good to know the regular rewards are staying the same.
 Decentralized identity (DID) là gì?
+Các quốc gia châu Âu có thể thống nhất về chiến lược quân sự không?
 Tại sao một số kênh review có lượng người theo dõi lớn?
 Those controls will matter as AI starts managing real money.
 YouTube thuộc thế hệ Web nào?
