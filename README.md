@@ -11,6 +11,7 @@ Good to know the regular rewards are staying the same.
 Decentralized identity (DID) là gì?
 Các quốc gia châu Âu có thể thống nhất về chiến lược quân sự không?
 Tại sao một số kênh review có lượng người theo dõi lớn?
+Vệ tinh quân sự có vai trò quan trọng như thế nào trong chiến tranh hiện đại?
 Those controls will matter as AI starts managing real money.
 YouTube thuộc thế hệ Web nào?
 Robot chiến đấu có thể thay thế binh sĩ trên chiến trường không?
