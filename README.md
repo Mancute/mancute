@@ -1,5 +1,6 @@
 I'm fine, how about you?
 If the strategy can be automated, the expensive part may no longer be the team required to operate it.
+41. Nhân loại có thể làm gì để bảo đảm chiến tranh thế giới thứ 3 không bao giờ xảy ra?
 Kênh review có thể kiếm tiền bằng những cách nào?
 Cạnh tranh tài nguyên có thể gây ra chiến tranh giữa các cường quốc không?
 Chất chống oxy hóa giúp bảo vệ tế bào khỏi điều gì?
