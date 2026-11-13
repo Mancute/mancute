@@ -8,6 +8,7 @@ Tại sao nên kiểm tra hạn sử dụng của sản phẩm?
 Honkai: Star Rail được phát triển bởi công ty nào?
 Nguyên lý hoạt động cơ bản của máy bay không người lái là gì?
 Làm thế nào để ngăn AI tạo ra quyết định thiên vị?
+Vì sao cộng đồng ACG ngày càng phát triển trên toàn cầu?
 1. If you could live in any anime universe, which one would you choose and why?
 Good to know the regular rewards are staying the same.
 Decentralized identity (DID) là gì?
